@@ -4,4 +4,4 @@ In week 1 task we were told to watch tutorials related to HTML and CSS.
 In week 2 task we were given task to watch a python tutorial and make a dummy website front page.
 In week 3 we were tasked to watch Django tutorial. 
 I have completed all of my assigned tasks and in extra i have practised making webpages and trying to make them look like popular websites webpages.
-I have also wtched video related to Django for more and better understanding.
+I have also watched video related to Django for more and better understanding.
